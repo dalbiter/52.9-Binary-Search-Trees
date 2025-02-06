@@ -1,0 +1,19 @@
+{
+  "name": "bst",
+  "version": "1.0.0",
+  "description": "binary search trees",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dalbiter/52.9-Binary-Search-Trees.git"
+  },
+  "author": "dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalbiter/52.9-Binary-Search-Trees/issues"
+  },
+  "homepage": "https://github.com/dalbiter/52.9-Binary-Search-Trees#readme"
+}
