@@ -25,9 +25,9 @@ class BinarySearchTree {
         this.root = root;
     }
     traverse(node=this.root){
-        this.traverse(node.left);
+        if(node.left) this.traverse(node.left);
         console.log(node.val);
-        this.traverse(node.right);
+        if(node.right) this.traverse(node.right);
     }   
 }
 
